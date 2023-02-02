@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://ada.promover(50);console.log(ada.salario);",
+      "request": "launch",
+      "url": "http://ada.promover(50);console.log(ada.salario);"
+    }
+  ]
+}
